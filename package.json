@@ -1,0 +1,1 @@
+{"description":"One Letter: Coffee or Tea — entry writes exactly one letter (A for coffee) to entry.txt","license":"MIT","main":"main.ts","name":"coffee-or-tea-20261124","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
